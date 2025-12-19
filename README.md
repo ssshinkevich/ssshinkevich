@@ -29,7 +29,7 @@
 
 | Проект | Описание | Артефакты (QA) |
 | :--- | :--- | :--- |
-| **JS Calculator** | Калькулятор на ванильном JS. Проект для тренировки тест-дизайна и поиска багов. | <ul><li>[✅ Тестовая документация](https://github.com/ssshinkevich/calculator-app-main/tree/main/testing-docs)</li></ul> |
+| **JS Calculator** | Калькулятор на ванильном JS. Проект для тренировки тест-дизайна и поиска багов. | [✅ Тестовая документация](https://github.com/ssshinkevich/calculator-app-main/tree/main/testing-docs) |
 
 ### Связаться
 - Email: s.shinkevich@icloud.com
